@@ -7,4 +7,4 @@
 *   Assignment 5: Kernel Density Estimation
 *   Assignment 6: K-means clustering
 *   Assignment 7: Fuzzy c-means and Agglomerative clustering
-*   
+*   Assignment 8: Clustering using Gaussian Mixture Models
