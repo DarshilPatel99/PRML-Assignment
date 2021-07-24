@@ -6,3 +6,5 @@
 *   Assignment 4: naïve-bayes classifier on IRIS dataset
 *   Assignment 5: Kernel Density Estimation
 *   Assignment 6: K-means clustering
+*   Assignment 7: Fuzzy c-means and Agglomerative clustering
+*   
